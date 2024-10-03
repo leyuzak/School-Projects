@@ -1,0 +1,5 @@
+Leyuza Koksoken 1004 2 Matematik 60 80 Fizik 70 75
+Fatma Temizel 1002 3 Kimya 55 65 Matematik 50 70 Fizik 60 80
+Iklima Koksoken 1003 1 Bilgisayar 80 90
+Ayse Gunes 1004 2 Matematik 90 95 Kimya 85 88
+Can Kara 1005 2 Fizik 70 80 Bilgisayar 75 85
